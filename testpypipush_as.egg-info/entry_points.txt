@@ -1,0 +1,2 @@
+[console_scripts]
+testpypipush = testpypipush.__main__:main

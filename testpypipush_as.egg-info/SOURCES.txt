@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+testpypipush/__init__.py
+testpypipush/__main__.py
+testpypipush/calculator.py
+testpypipush/core.py
+testpypipush/utils.py
+testpypipush_as.egg-info/PKG-INFO
+testpypipush_as.egg-info/SOURCES.txt
+testpypipush_as.egg-info/dependency_links.txt
+testpypipush_as.egg-info/entry_points.txt
+testpypipush_as.egg-info/requires.txt
+testpypipush_as.egg-info/top_level.txt
+tests/test_calculator.py
+tests/test_package.py
